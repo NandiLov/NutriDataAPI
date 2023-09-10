@@ -18,7 +18,7 @@ NutriDataAPI is a powerful and easy-to-use API for accessing nutritional informa
 
 **Author:**
 - [John Doe](https://www.linkedin.com/in/nandila-mulilalila-184595214/)
-- [John Doe](https://www.linkedin.com/in/nandila-mulilalila-184595214/)
+- [Nandila Mulilalila-EMAIL](nandilamul@gmail.com)
 - [John Doe](https://www.linkedin.com/in/nandila-mulilalila-184595214/)
 
 ## Features
