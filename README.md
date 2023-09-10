@@ -17,9 +17,8 @@ NutriDataAPI is a powerful and easy-to-use API for accessing nutritional informa
 **[Visit NutriDataAPI](https://nandilov.github.io/NutriData)**
 
 **Author:**
-- [John Doe](https://www.linkedin.com/in/nandila-mulilalila-184595214/)
+- [Nandila Mulilalila-Linkedin](https://www.linkedin.com/in/nandila-mulilalila-184595214/)
 - [Nandila Mulilalila-EMAIL](nandilamul@gmail.com)
-- [John Doe](https://www.linkedin.com/in/nandila-mulilalila-184595214/)
 
 ## Features
 
@@ -73,7 +72,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any questions or inquiries, please contact us at [contact@yourdomain.com](mailto:contact@yourdomain.com).
+For any questions or inquiries, please contact us at [EMAIL](nandilamul@gmail.com)
 
 
 ![NutriDataAPI Logo](https://yourdomain.com/path/to/logo.png)
