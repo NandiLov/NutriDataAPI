@@ -44,7 +44,6 @@ GET https://api.yourdomain.com/nutrition?food=banana&apikey=YOUR_API_KEY
 
 ### Step 6: Add a Contributing Section
 
-```markdown
 ## Contributing
 
 We welcome contributions from the community! If you'd like to contribute to NutriDataAPI, please read our [Contributing Guidelines](CONTRIBUTING.md).
