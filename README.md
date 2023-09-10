@@ -46,10 +46,10 @@ To use NutriDataAPI locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   **git clone https://github.com/NandiLov/NutriDataAPI.git
-   **cd NutriDataAPI
-   **activate virtual environment
-   **runserver
+   git clone https://github.com/NandiLov/NutriDataAPI.git
+   cd NutriDataAPI
+   activate virtual environment
+   runserver
 
 
 ### Add a Contributing Section
