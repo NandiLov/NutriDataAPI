@@ -37,9 +37,8 @@ To get started with NutriDataAPI, follow these simple steps:
 
 4. **Make Requests**: Start making requests to retrieve nutritional information for the foods and ingredients you need.
 
-```http
-GET https://api.yourdomain.com/nutrition?food=banana&apikey=YOUR_API_KEY
 
+GET https://api.yourdomain.com/nutrition?food=banana&apikey=YOUR_API_KEY
 
 
 ### Step 6: Add a Contributing Section
