@@ -22,6 +22,8 @@ NutriDataAPI is a powerful and easy-to-use API for accessing nutritional informa
 
 ## Features
 
+![NutriDataAPI Logo](https://nandilov.github.io/NutriData/feature-1.jpg)
+
 - **Comprehensive Database**: Access detailed nutritional data for thousands of foods and ingredients.
 - **Search Functionality**: Find nutritional information by searching for specific foods or ingredients.
 - **Easy Integration**: Integrate NutriDataAPI seamlessly into your application using our RESTful API.
