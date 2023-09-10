@@ -27,6 +27,10 @@ NutriDataAPI is a powerful and easy-to-use API for accessing nutritional informa
 
 ## Usage
 
+NutriDataAPI provides a simple and intuitive API to retrieve nutritional information for various food items. To use the API, make GET requests to the endpoints listed in our API documentation.
+
+For detailed usage instructions, refer to our API Documentation.
+
 To get started with NutriDataAPI, follow these simple steps:
 
 1. **Sign Up**: Create an account on our [website]([https://yourdomain.com/signup](https://nandilov.github.io/NutriData)).
