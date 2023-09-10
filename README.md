@@ -54,9 +54,6 @@ To use NutriDataAPI locally, follow these steps:
    activate virtual environment
    runserver
 
-
-### Add a Contributing Section
-
 ## Contributing
 
 We welcome contributions from the community! If you'd like to contribute to NutriDataAPI, please read our [Contributing Guidelines](CONTRIBUTING.md).
