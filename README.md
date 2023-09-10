@@ -40,6 +40,17 @@ To get started with NutriDataAPI, follow these simple steps:
 
 GET https://api.yourdomain.com/nutrition?food=banana&apikey=YOUR_API_KEY
 
+## Installation
+
+To use NutriDataAPI locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   **git clone https://github.com/NandiLov/NutriDataAPI.git
+   **cd NutriDataAPI
+   **activate virtual environment
+   **runserver
+
 
 ### Add a Contributing Section
 
