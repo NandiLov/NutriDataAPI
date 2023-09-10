@@ -62,6 +62,8 @@ To use NutriDataAPI locally, follow these steps:
 
 We welcome contributions from the community! If you'd like to contribute to NutriDataAPI, please read our [Contributing Guidelines](CONTRIBUTING.md).
 
+## Related Projects
+NutriData Web App - A user-friendly web application built on top of NutriDataAPI.
 
 ## License
 
