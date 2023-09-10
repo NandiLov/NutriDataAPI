@@ -22,7 +22,6 @@ NutriDataAPI is a powerful and easy-to-use API for accessing nutritional informa
 
 ## Features
 
-![NutriDataAPI Logo](https://nandilov.github.io/NutriData/feature-1.jpg)
 
 - **Comprehensive Database**: Access detailed nutritional data for thousands of foods and ingredients.
 - **Search Functionality**: Find nutritional information by searching for specific foods or ingredients.
@@ -45,6 +44,8 @@ To get started with NutriDataAPI, follow these simple steps:
 3. **API Documentation**: Read our [API documentation](https://nutridata.pythonanywhere.com/food/) for detailed information on endpoints and how to make requests.
 
 4. **Make Requests**: Start making requests to retrieve nutritional information for the foods and ingredients you need.
+   
+![Demo Video]([https://nandilov.github.io/NutriData/feature-1.jpg](https://player.vimeo.com/video/861935810))
 
 
 GET https://api.yourdomain.com/nutrition?food=banana&apikey=YOUR_API_KEY
