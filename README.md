@@ -2,7 +2,7 @@
 
 # NutriDataAPI
 
-## Introduction
+![NutriDataAPI Hero](https://nandilov.github.io/NutriData/hero-bg.png)
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![GitHub Stars](https://img.shields.io/github/stars/NandiLov/NutriDataAPI.svg)](https://github.com/yourusername/NutriDataAPI/stargazers)
