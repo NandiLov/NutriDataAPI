@@ -16,6 +16,11 @@ NutriDataAPI is a powerful and easy-to-use API for accessing nutritional informa
 
 **[Visit NutriDataAPI](https://nandilov.github.io/NutriData)**
 
+**Author:**
+- [John Doe](https://www.linkedin.com/in/nandila-mulilalila-184595214/)
+- [John Doe](https://www.linkedin.com/in/nandila-mulilalila-184595214/)
+- [John Doe](https://www.linkedin.com/in/nandila-mulilalila-184595214/)
+
 ## Features
 
 - **Comprehensive Database**: Access detailed nutritional data for thousands of foods and ingredients.
