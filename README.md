@@ -51,12 +51,6 @@ GET https://api.yourdomain.com/nutrition?food=banana&apikey=YOUR_API_KEY
 
 Watch our project demo in action:
 
-<iframe width="560" height="315" src="https://player.vimeo.com/video/861935810" frameborder="0" allowfullscreen></iframe>
-
-## Project Demo
-
-Watch our project demo video:
-
 [![Demo Video](https://example.com/demo-thumbnail.jpg)](https://player.vimeo.com/video/861935810)
 
 
