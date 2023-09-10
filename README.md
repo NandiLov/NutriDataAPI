@@ -41,7 +41,7 @@ To get started with NutriDataAPI, follow these simple steps:
 GET https://api.yourdomain.com/nutrition?food=banana&apikey=YOUR_API_KEY
 
 
-### Step 6: Add a Contributing Section
+### Add a Contributing Section
 
 ## Contributing
 
