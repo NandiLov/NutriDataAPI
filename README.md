@@ -19,7 +19,7 @@ NutriDataAPI is a powerful and easy-to-use API for accessing nutritional informa
 **Author:**
 - [Nandila Mulilalila-Linkedin](https://www.linkedin.com/in/nandila-mulilalila-184595214/)
 - [Nandila Mulilalila-EMAIL](nandilamul@gmail.com)
-- ![NutriDataAPI Hero](https://https://nandilov.github.io/NutriData/nandila.jpg)
+![NutriDataAPI AUTHOR](https://nandilov.github.io/NutriData/nandila.jpg)
 
 ## Features
 
