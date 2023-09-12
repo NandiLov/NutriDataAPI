@@ -84,6 +84,6 @@ For any questions or inquiries, please contact us at [EMAIL](nandilamul@gmail.co
 
 
 ![NutriDataAPI Demo](https://yourdomain.com/path/to/demo.gif)
-![NutriDataAPI Logo](https://nandilov.github.io/NutriData/hero-bg.png)
+![NutriDataAPI Logo](https://github.com/NandiLov/NutriData/blob/main/docs/logo.png)
 
 
