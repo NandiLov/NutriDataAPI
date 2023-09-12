@@ -51,7 +51,7 @@ GET https://api.yourdomain.com/nutrition?food=banana&apikey=YOUR_API_KEY
 
 Watch our project demo in action:
 
-[![Demo Video](https://example.com/demo-thumbnail.jpg)](https://player.vimeo.com/video/861935810)
+[![Demo Video](https://player.vimeo.com/video/861935810)
 
 
 
@@ -82,8 +82,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any questions or inquiries, please contact us at [EMAIL](nandilamul@gmail.com)
 
-
-![NutriDataAPI Demo](https://yourdomain.com/path/to/demo.gif)
 ![NutriDataAPI Logo](https://github.com/NandiLov/NutriData/blob/main/docs/logo.png)
 
 
