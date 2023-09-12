@@ -83,7 +83,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For any questions or inquiries, please contact us at [EMAIL](nandilamul@gmail.com)
 
 
-![NutriDataAPI Logo](https://yourdomain.com/path/to/logo.png)
+![NutriDataAPI Logo]([https://yourdomain.com/path/to/logo.png](https://github.com/NandiLov/NutriData/blob/main/docs/logo.png))
 ![NutriDataAPI Demo](https://yourdomain.com/path/to/demo.gif)
 
 
